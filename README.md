@@ -44,7 +44,7 @@ Utilizamos o visual personalizado `AnimatedBarChartRace.pbiviz` para transformar
 ## 📽️ Preview
 
 > 🎬 *Você pode assistir à animação completa no meu [LinkedIn](https://www.linkedin.com/in/seuusuarioaqui/)*  
-> 📁 O arquivo `.pbiviz` está incluído neste repositório para referência e estudo.
+
 
 ---
 
